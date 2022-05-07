@@ -1,0 +1,1 @@
+Run "python runFiForInst.py pathfinder "1000 10" 50" to launch FI experiments. It reads "inst_list.txt" for all the instructions for FI, 50 instructions of FI  concurrently. For each thread, it does FI for 100 trials as specified in input.yaml in the base folder. So there is a total of 100 trials for each instruction.

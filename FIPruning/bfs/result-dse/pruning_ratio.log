@@ -1,0 +1,22 @@
+mkdir: cannot create directory ‘Result’: File exists
+rm: cannot remove 'Result/representatives.txt': No such file or directory
+rm: cannot remove 'Result/equivalence_groups.txt': No such file or directory
+<START>*********** seqeunces after ignoring excluded inst list **********
+<END>*********** seqeunces after ignoring excluded inst list **********
+
+
+
+<START>------- Representatives  **********
+
+<END>------- Representatives **********
+
+
+<START>------- Equivalence Groups  **********
+
+<END>------- Equivalence Groups  **********
+
+retained fi sites count:  174
+total fi sites count:  243
+pruning ratio:  0.2839506172839506
+
+see the Result/pruned_ratio.txt file 

@@ -1,0 +1,21 @@
+rm: cannot remove 'Result/representatives.txt': No such file or directory
+rm: cannot remove 'Result/equivalence_groups.txt': No such file or directory
+<START>*********** seqeunces after ignoring excluded inst list **********
+<END>*********** seqeunces after ignoring excluded inst list **********
+
+
+
+<START>------- Representatives  **********
+
+<END>------- Representatives **********
+
+
+<START>------- Equivalence Groups  **********
+
+<END>------- Equivalence Groups  **********
+
+retained fi sites count:  188
+total fi sites count:  236
+pruning ratio:  0.2033898305084746
+
+see the Result/pruned_ratio.txt file 
